@@ -1,6 +1,6 @@
 # UI-UX-Projects
-- Web based "Student Portal" room reservation feature
-Link Figma: https://www.figma.com/design/6RqjdBjH3Wq25CJ2L3Qzwy/Draft-Proto-DPP?node-id=56-7880&t=vxp81kGwPlwatSRG-1
+- Web based "Student Portal" room reservation feature <br>
+Link Figma: https://www.figma.com/design/6RqjdBjH3Wq25CJ2L3Qzwy/Draft-Proto-DPP?node-id=56-7880&t=vxp81kGwPlwatSRG-1 e <br>
 Design Thingking: https://www.figma.com/file/DJ8zbExQz8hDqPHBSyvfNJ/DPP-(Copy)?type=whiteboard&node-id=1288-359&t=wysrO9FIfPFDkK2A-0
 
 - Mobile apps based "IPB Mobile for Student" and "IPB Mobile for HR"

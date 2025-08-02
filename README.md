@@ -13,6 +13,6 @@ Link Figma: https://www.figma.com/design/eBV5787yeD0jQyuWGMEVYs/ADS?node-id=0-1&
 ---
 
 ### 3. Website TOMO
-Link Figma: ### 1. https://www.figma.com/design/xKBcKTToc29VyLG0NG3k1a/projek-rpl?node-id=1-771&p=f&t=rR2yGKT4JQwPqqQk-0
+Link Figma: https://www.figma.com/design/xKBcKTToc29VyLG0NG3k1a/projek-rpl?node-id=1-771&p=f&t=rR2yGKT4JQwPqqQk-0
 <img width="2879" height="1522" alt="image" src="https://github.com/user-attachments/assets/fbf374a5-65f1-4f0f-887f-eea7dfc37324" />
 
